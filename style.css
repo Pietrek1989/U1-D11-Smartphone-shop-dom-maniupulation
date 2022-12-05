@@ -1,0 +1,43 @@
+body {
+    margin: 0 25%;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: normal;
+}
+
+
+img {
+    width: 100px;
+    height: 100px;
+    border: solid 5px #b7b7ec;
+    padding: 15px;
+    
+}
+table {
+    display: flex;
+    justify-content: center;
+    text-align: ceter;
+}
+h1, h2 {
+    text-align: center;
+}
+
+footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.inputDiv {
+    text-align: center;;
+}
+
+.changeColor {
+    background-color: yellow;
+}
+
+.hidden {
+    visibility: hidden;
+}
